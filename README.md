@@ -1,3 +1,3 @@
 # plataforma-de-eventos
 
-Aplicativo android da plataforma de eventos da Struct UnB
+Plataforma de eventos da Struct UnB
