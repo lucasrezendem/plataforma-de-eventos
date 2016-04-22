@@ -15,5 +15,5 @@ Struct Empresa Júnior - Universidade de Brasília<br>
 <h3>Notas</h3>
 
 <p>
-O projeto está sendo desenvolvido por estudantes de Engenharia de Computação em processo de Trainee na Struct Empresa Júnior
+O projeto está sendo desenvolvido por estudantes de Engenharia de Computação em processo de Trainee da Empresa Júnior Struct.
 </p>
